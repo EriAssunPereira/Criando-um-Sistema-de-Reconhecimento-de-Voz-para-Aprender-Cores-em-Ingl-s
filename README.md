@@ -1,4 +1,4 @@
-# Criando-um-Sistema-de-Reconhecimento-de-Voz-para-Aprender-Cores-em-Inglés
+# Criando-um-Sistema-de-Reconhecimento-de-Voz-para-Aprender-Cores-em-Inglês
 
 Desenvolver um sistema de reconhecimento de voz para aprender cores em inglês é um projeto que combina tecnologias de reconhecimento de voz com educação interativa. Utilizaremos a API nativa de reconhecimento de voz (Speech Recognition) disponível em navegadores modernos para capturar comandos de voz dos usuários e identificar cores em inglês. Vamos detalhar como estruturar e implementar esse projeto de forma organizada e profissional.
 
